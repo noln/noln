@@ -17,7 +17,7 @@
 
 Software that lives on vehicles, or near enough.
 
-OEM time on connected infotainment, including a proof of concept that shipped in production vehicles. Then a decade leading Android product work. Now back on the vehicle side: controls, data, and systems that have to survive a car, not just a phone.
+OEM time on connected infotainment, including a proof of concept that shipped in production vehicles. Then a decade leading Android product work. Now back on the vehicle side: controls, data, and systems that have to survive in the vehicle, not just on mobile.
 
 Public repos are the side bench. Overlays, watches, boards, circuit maps.
 
