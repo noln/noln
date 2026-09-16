@@ -15,7 +15,7 @@
 
 ### about
 
-Software that lives on vehicles, or close enough to matter.
+Software that lives on vehicles, or near enough.
 
 OEM time on connected infotainment, including a proof of concept that shipped in production vehicles. Then a decade leading Android product work. Now back on the vehicle side: controls, data, and systems that have to survive a car, not just a phone.
 
