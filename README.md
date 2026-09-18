@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1400&color=7EC8E3&center=true&vCenter=true&width=680&lines=software+for+things+that+move;connected+infotainment+%E2%86%92+controls+%E2%86%92+data;android%2C+hardware%2C+and+the+odd+garmin+widget" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1400&color=7EC8E3&center=true&vCenter=true&width=680&lines=connected+infotainment+%E2%86%92+controls+%E2%86%92+data;android%2C+hardware%2C+and+the+odd+garmin+widget" alt="typing" />
 </p>
 
 <p align="center">
@@ -13,19 +13,10 @@
 
 ---
 
-### about
-
-Software that lives on vehicles, or near enough.
-
-OEM time on connected infotainment, including a proof of concept that shipped in production vehicles. Then a decade leading Android product work. Now back on the vehicle side: controls, data, and systems that have to survive in the vehicle, not just on mobile.
-
-Public repos are the side bench. Overlays, watches, boards, circuit maps.
-
 ```text
 now       motorsport mechatronics · vehicle systems
 was       oem infotainment · android tech lead
 tools     kotlin · java · python · matlab · circuitpython
-also      private pilot · garmin watch side-projects · POCs
 ```
 
 ---
