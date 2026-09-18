@@ -3,31 +3,17 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1400&color=7EC8E3&center=true&vCenter=true&width=680&lines=connected+infotainment+%E2%86%92+controls+%E2%86%92+data;android%2C+hardware%2C+and+the+odd+garmin+widget" alt="typing" />
-</p>
-
-<p align="center">
   <a href="https://github.com/noln"><img src="https://img.shields.io/badge/github-noln-1B4B6B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/mattfenlon"><img src="https://img.shields.io/badge/linkedin-mattfenlon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ---
 
-```text
-now       motorsport mechatronics · vehicle systems
-was       oem infotainment · android tech lead
-tools     kotlin · java · python · matlab · circuitpython
-```
-
----
-
-### on the bench
-
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/noln/motorsport-circuits">motorsport-circuits</a></h3>
-      <p>UK circuit maps in an Android app. Old, and marked deprecated — the interest in the places themselves is not.</p>
+      <p>Maps of UK race circuits in an Android app. I marked it deprecated years ago and it shows, but I still like the circuits, so it stays up.</p>
       <p>
         <img src="https://img.shields.io/badge/java-orange?style=flat-square" alt="java" />
         <img src="https://img.shields.io/badge/maps-1B4B6B?style=flat-square" alt="maps" />
@@ -35,7 +21,7 @@ tools     kotlin · java · python · matlab · circuitpython
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/noln/circuitpython-projects">circuitpython-projects</a></h3>
-      <p>Graphics, web data, and touch input on real boards. Closest public stand-in for hardware that has to be touched, not just deployed.</p>
+      <p>Little boards driving displays, fetching web data, reading touch input.</p>
       <p>
         <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white" alt="python" />
         <img src="https://img.shields.io/badge/circuitpython-black?style=flat-square" alt="circuitpython" />
@@ -45,7 +31,7 @@ tools     kotlin · java · python · matlab · circuitpython
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/noln/system-alert-window-example">system-alert-window-example</a></h3>
-      <p>The repo people actually found. <code>SYSTEM_ALERT_WINDOW</code> on Android 23+, overlay service, back-button interception. Also in <a href="https://github.com/noln/system-alert-window-example-kotlin">Kotlin</a>.</p>
+      <p>The one people actually found, thanks to Stack Overflow. Drawing over other apps with <code>SYSTEM_ALERT_WINDOW</code> on Android 23+, overlay service, back-button interception and all. There's a <a href="https://github.com/noln/system-alert-window-example-kotlin">Kotlin version</a> too.</p>
       <p>
         <img src="https://img.shields.io/github/stars/noln/system-alert-window-example?style=flat-square" alt="stars" />
         <img src="https://img.shields.io/github/forks/noln/system-alert-window-example?style=flat-square" alt="forks" />
@@ -54,7 +40,7 @@ tools     kotlin · java · python · matlab · circuitpython
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/noln/doughnuts-burnt">doughnuts-burnt</a></h3>
-      <p>Garmin Connect IQ widget for the Fenix 5X. Calories in, doughnuts out. Sensor data with a sense of humour.</p>
+      <p>A widget for the Garmin Fenix 5X that converts calories burned into doughnuts earned. Written in Monkey C, which is a real language that Garmin named on purpose.</p>
       <p>
         <img src="https://img.shields.io/github/stars/noln/doughnuts-burnt?style=flat-square" alt="stars" />
         <img src="https://img.shields.io/badge/monkey_c-007CC3?style=flat-square" alt="monkey c" />
@@ -67,10 +53,10 @@ tools     kotlin · java · python · matlab · circuitpython
 <summary>further back</summary>
 <br/>
 
-- [roma-android](https://github.com/roma-apps/roma-android) — lightweight Pleroma / Mastodon client
-- [PHP-location-history-parser](https://github.com/noln/PHP-location-history-parser) — Google Location History KML → something usable
-- [StravaWindDirection](https://github.com/noln/StravaWindDirection) — wind arrow on Strava activity pages
-- [gitfiti](https://github.com/noln/gitfiti) — draw on the contribution graph with dummy commits
+- [roma-android](https://github.com/roma-apps/roma-android) - a lightweight Pleroma / Mastodon client
+- [PHP-location-history-parser](https://github.com/noln/PHP-location-history-parser) - turns Google Location History KML into usable data structure
+- [StravaWindDirection](https://github.com/noln/StravaWindDirection) - puts a wind arrow on Strava activity pages, so you can prove the headwind was real!
+- [gitfiti](https://github.com/noln/gitfiti) - draw pixel art on the contribution graph with dummy commits (to win an argument 😆)
 
 </details>
 
