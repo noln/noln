@@ -77,16 +77,14 @@
 ### activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=noln&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=7EC8E3&icon_color=7EC8E3&text_color=C9D6DF&ring_color=1B4B6B" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noln&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=7EC8E3&text_color=C9D6DF" alt="languages" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=noln&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=7EC8E3&icon_color=7EC8E3&text_color=C9D6DF&ring_color=1B4B6B" alt="stats" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=noln&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=7EC8E3&text_color=C9D6DF" alt="languages" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=noln&theme=dark&hide_border=true&background=00000000&ring=1B4B6B&fire=7EC8E3&currStreakLabel=7EC8E3" alt="streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=noln&bg_color=0B1D2A&color=7EC8E3&line=1B4B6B&point=E8F1F8&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 <div align="center">
